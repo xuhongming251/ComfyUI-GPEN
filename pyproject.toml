@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-gpen"
+description = "Nodes:FaceEnhancement. Based on modelscope pipeline."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/xuhongming251/ComfyUI-GPEN"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-GPEN"
+Icon = ""
